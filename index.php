@@ -1,0 +1,3 @@
+<?
+	header ("location: search.php");
+?>
